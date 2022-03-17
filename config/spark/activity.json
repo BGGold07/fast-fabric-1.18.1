@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "MrSirDolphin",
+      "uniqueId": "f1055223-6fd5-443e-ac5c-b7720f2cea8a"
+    },
+    "time": 1647551730802,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/IdDLR5ZJbJ"
+    }
+  }
+]
